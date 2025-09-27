@@ -1,0 +1,52 @@
+
+body{
+    background-color:khaki
+}
+
+.main-box{
+    display: flex;
+    width: 860px;
+    height: 550px;
+    background-color: aquamarine;
+    margin-left: 325px;
+    margin-top: 100px;
+}
+.box1{
+    color: aliceblue;
+    margin: 30px;
+    border: 10px solid orange;
+    border-radius: 15px;
+    gap: 50px;
+    height: fit-content;
+    text-align: center;
+}
+.box2{
+    color: aliceblue;
+    margin: 30px;
+    border: 10px solid orange;
+    border-radius: 15px;
+    gap: 50px;
+    height: fit-content;
+    text-align: center;
+}
+.box3{
+    color: aliceblue;
+    margin: 30px;
+    border: 10px solid orange;
+    border-radius: 15px;
+    gap: 50px;
+    height: fit-content;
+    text-align: center;
+}
+
+.inner-box{ 
+    background-color: black;
+}
+button{
+    margin: 5px;
+    width: 80px;
+    height: 40px;
+    background-color: darkorange;
+    color: white;
+}
+}
